@@ -87,7 +87,7 @@
 
 ## 🎒 Образование
 [<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Certificate.png)
-[<img src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter2.png)
+ <!-- [<img src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter2.png)   --> 
 
 <br>
 <br>
