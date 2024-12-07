@@ -1,15 +1,15 @@
 ## Привет！ 👋
-Меня зовут Герман, я QA Engineer
+Меня зовут Сергей, я QA Engineer
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=German-D)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=German-D)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=P-Sergei-qa)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=P-Sergei-qa)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=P-Sergei-qa)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -32,7 +32,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
