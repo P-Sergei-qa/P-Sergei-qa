@@ -88,8 +88,8 @@
 <br>
 
 ## 🎒 Образование
-[<Certificate src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Certificate.png)
-[<Certificate2 src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Certificate2.png)
+[<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Certificate.png)
+[<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Certificate2.png)
  <!-- [<img src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.ggithubusercontent.com/.png)   --> 
 
 <br>
