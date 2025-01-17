@@ -90,7 +90,7 @@
 ## 🎒 Образование
 [<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Certificate.png)
 [<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Certificate2.png)
-[<pdf src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендация">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Rec.pdf)
+[<pdf src="/Letter2.png" width="280px" hspace="10px" alt="Рекомендация">](https://raw.githubusercontent.com/P-Sergei-qa/P-Sergei-qa/refs/heads/main/Rec1.png)
 
 <br>
 <br>
